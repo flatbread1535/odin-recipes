@@ -1,0 +1,1 @@
+This project uses basic HTML to create a website that contains links to a few recipes.
